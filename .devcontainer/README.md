@@ -21,3 +21,8 @@ This development container provides a standardized development environment for w
 
 For more information, read the README.md in the root of the repository.
 
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

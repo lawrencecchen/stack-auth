@@ -16,3 +16,8 @@ Build & run
 ```bash
 docker-compose -f docker/emulator/docker.compose.yaml up --build
 ```
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

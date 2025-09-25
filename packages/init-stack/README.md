@@ -42,3 +42,8 @@ npx init-stack --js --npm
 ```
 
 For more information, please visit [Stack Auth Documentation](https://docs.stack-auth.com/getting-started/setup).
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

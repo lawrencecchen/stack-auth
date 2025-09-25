@@ -20,3 +20,8 @@ To create a new migration, simply add a new folder in `src/app/api/migrations`. 
 To understand the flow of old migrations, imagine a request for a `v2` endpoint. Instead of looking for a Next.js file in the `src/app/api` folder directly, the middleware will instead rewrite the request to `src/app/api/migrations/v2beta1`. If not found, it will check `v2beta2`, and so on. If no migration strictly newer than the requested version is found, it will return the route from `src/app/api/latest`.
 
 
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

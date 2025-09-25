@@ -150,3 +150,8 @@ Organization incomplete config = organization rendered config = complete config:
 
 
 </details>
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

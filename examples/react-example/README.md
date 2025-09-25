@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

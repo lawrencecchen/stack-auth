@@ -219,3 +219,14 @@ Thanks to [CodeViz](https://www.codeviz.ai) for generating the diagram!
 <a href="https://github.com/stack-auth/stack-auth/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=stack-auth/stack&columns=9" width="100%" />
 </a>
+
+---
+
+Stack Auth secures code  
+Users sign in with ease and grace  
+Open source and free
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free

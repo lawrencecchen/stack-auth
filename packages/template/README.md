@@ -24,3 +24,8 @@ We support Next.js frontends, along with any backend that can use our [REST API]
 
 
 Check out the [documentation](https://docs.stack-auth.com/getting-started/setup) for a more detailed guide.
+-e 
+---
+Stack Auth secures code
+Users sign in with ease and grace
+Open source and free
