@@ -219,3 +219,9 @@ Thanks to [CodeViz](https://www.codeviz.ai) for generating the diagram!
 <a href="https://github.com/stack-auth/stack-auth/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=stack-auth/stack&columns=9" width="100%" />
 </a>
+
+---
+
+*Code flows like streams
+Auth guards the sacred gates well
+Users enter peace*
